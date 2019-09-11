@@ -1,7 +1,4 @@
 # tweeting job-market candidates for @jenniferdoleac
-------
-
-
 
 Update filepath and twitter API credentials in `tweet.R` and run file. Will need to create a twitter developer app. These are useful instructions for getting started with the twitteR package: (https://www.r-bloggers.com/send-tweets-from-r-a-very-short-walkthrough/). See `/misc/twitter_app_screenshot.png` for example app details.
 
